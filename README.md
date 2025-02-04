@@ -28,5 +28,6 @@ CORE3S:
 - https://uiflow-micropython.readthedocs.io/en/latest/get-started/index.html
 
 RollerCAN Links:
+- https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/unit/Unit-RollerCAN%20Lite/Unit-RollerCAN-I2C-Protocol-EN.pdf
 - https://uiflow-micropython.readthedocs.io/en/latest/units/rollercan.html
 - https://github.com/m5stack/M5Unit-Roller/blob/main/src/unit_rolleri2c.cpp
