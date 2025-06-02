@@ -1,6 +1,9 @@
 # mello_gello
 Improved models and methods for the Gello robot teleop system
 
+![image](https://github.com/user-attachments/assets/da670d3f-2f91-4392-84db-c1f1b88ae2f5)
+
+
 This project is heavily inspired by uses code derived from the original GELLO project - https://wuphilipp.github.io/gello_site/
 
 MELLO GELLO (MG) overhauls the GELLO design and replaces hardware components 
