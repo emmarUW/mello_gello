@@ -13,7 +13,8 @@ Purchase:
    - M5 Key x 1
    - M5 Joystick2 x 1
   
-![image](https://github.com/user-attachments/assets/a542cf81-168a-4393-a0c0-ae3e3e9df70c)
+![image](https://github.com/user-attachments/assets/3ca18ff7-544b-46d5-817a-ffaaaeffac8d)
+
 
 Print:
   - Common Parts:
