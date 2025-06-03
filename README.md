@@ -21,7 +21,7 @@ Inspired by and based on the original [GELLO project](https://wuphilipp.github.i
 ## Versions:
 
 ### UR5e:
-The UR5 version of MG is *AVAILABLE* in the Universal Robots/UR5e folder
+The UR5 version of MG is *AVAILABLE* in the Universal Robots/UR5e folder - https://github.com/emmarUW/mello_gello/blob/main/Universal%20Robots/UR5e/README.md
 
 ### Franka:
 The Franka version of MG is *IN WORK* - in the Franka folder
