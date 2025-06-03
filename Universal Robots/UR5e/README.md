@@ -1,4 +1,7 @@
 UR5 BOM:
+
+This UR5e is a 50%-scale teleop leader for the current model UR5e. All rotation centers should be spatially correct without any software compensation.
+
 ![image](https://github.com/user-attachments/assets/b6e1d334-c3ce-4308-8328-5c0f3ba33734)
 
 Fusion 360 Files - https://a360.co/4katDeD
